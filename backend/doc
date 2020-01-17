@@ -6,3 +6,10 @@
 // Body: request.body (Dados para criação ou alteração de um registro)
 
 // MongoDB (Não-relacional)
+
+Requisições HTTP
+GET, POST, PUT, DELETE
+
+REQUISICAO Frontend -> Backend -> RESPOSTA Front-End
+
+Protocolo WebSocket
